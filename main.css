@@ -17,6 +17,10 @@ body {
 
 /* HEADER */
 
+header {
+    width: 100%;
+}
+
 /* BURGER */
 .burger {
     position: fixed;
