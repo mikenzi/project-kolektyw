@@ -13,6 +13,7 @@ const zmiana = document.querySelector(".burger")
         })
 //  NAV MENU 
 
+
 const menu = document.querySelector(".menu ul")
 const burgerButton = document.querySelector(".burger")
 

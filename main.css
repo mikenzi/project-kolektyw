@@ -6,6 +6,7 @@
 
 body {
     height: 200vh;
+    width: 100vw
 }
 
 .container {
@@ -165,6 +166,7 @@ main {
     margin: calc(50vh - 118px) calc(50vw - 163px);
     z-index: 7;
 }
+
 
 
 .right {
